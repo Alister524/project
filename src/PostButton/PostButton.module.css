@@ -1,0 +1,16 @@
+.myButton{
+    padding: 5px 20px;
+    color: darkorange;
+    font-size: 14px;
+    background: transparent;
+    border: 2px solid orange;
+    cursor: pointer;
+}
+
+.myButton:hover{
+    filter: brightness(120%);
+}
+
+.myButton:active{
+    filter: brightness(80%);
+}
